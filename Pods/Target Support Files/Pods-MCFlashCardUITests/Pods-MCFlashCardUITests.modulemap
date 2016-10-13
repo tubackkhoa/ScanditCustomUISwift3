@@ -1,0 +1,6 @@
+framework module Pods_MCFlashCardUITests {
+  umbrella header "Pods-MCFlashCardUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
